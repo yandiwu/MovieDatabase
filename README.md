@@ -1,5 +1,5 @@
 # Movie Database 
-An analysis of IMDb Top 400 movies. A Tableau dashboard with summary of the results can be found [here](<https://public.tableau.com/app/profile/yandi.wu/viz/factsheet_16746166550030/Dashboard1?publish=yes>), and the raw file is also available. 
+An analysis of IMDb Top 400 movies. 
 
 ## Dataset 
 
@@ -12,6 +12,7 @@ Unfortunately, although the source claims to have IMDb top 1000 movies, when I o
 
 ## Analysis
 
-See movies.ipynb for a Jupyter notebook file, where I wrote queries to analyze movie data. 
+See movies.ipynb for a Jupyter notebook file, where I wrote queries to analyze movie data. A **Tableau dashboard** with summary of the results can be found [here](<https://public.tableau.com/app/profile/yandi.wu/viz/factsheet_16746166550030/Dashboard1?publish=yes>), and the raw file is also available. 
+
 
 
