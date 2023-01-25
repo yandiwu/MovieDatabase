@@ -1,5 +1,5 @@
 # Movie Database 
-An analysis of IMDb Top 400 movies. 
+An analysis of IMDb Top 400 movies. A Tableau dashboard with summary of the results can be found [here]<https://public.tableau.com/app/profile/yandi.wu/viz/factsheet_16746166550030/Dashboard1?publish=yes>, and the raw file is also available. 
 
 ## Dataset 
 
